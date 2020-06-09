@@ -363,6 +363,7 @@
 }
 
 .img {
+  display: block;
 }
 
 /* .img::after {
